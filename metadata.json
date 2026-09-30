@@ -1,0 +1,6 @@
+{
+  "name": "Traffic Jam",
+  "description": "A vibrant 6x6 grid-based parking lot puzzle game where you slide blocking vehicles out of the way to drive the red sports car through the exit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
